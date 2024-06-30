@@ -1,0 +1,6 @@
+1. https://github.com/InQuest/awesome-yara
+2. https://github.com/cyb3rxp/awesome-soc
+3. https://github.com/dfir-iris/iris-web/tree/master
+4. https://github.com/V1D1AN/S1EM?tab=readme-ov-file#guides
+5. https://securityonline.info/s1em-siem-with-sirp-and-threat-intel/
+6. https://securityonionsolutions.com/
